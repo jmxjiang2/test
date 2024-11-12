@@ -1,1 +1,6 @@
 .env
+# JetBrains IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
